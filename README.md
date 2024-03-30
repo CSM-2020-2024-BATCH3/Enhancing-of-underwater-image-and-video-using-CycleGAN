@@ -20,6 +20,8 @@ The proposed work aims to significantly enhance underwater images and videos, be
 - **Model Training**: Train the CycleGAN model on the collected dataset, optimizing both the generator and discriminator networks.
 - **Evaluation**: Evaluate the quality of generated enhancements through quantitative metrics and visual inspection.
 - **Deployment**: Deploy the trained model for real-world applications, providing enhanced underwater media for diverse use cases.
+## Dataset Details
+- **Download link for Unpaired Dataset** :  https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb3
 
 ## Conclusion
 Enhancing underwater images and videos using CycleGAN offers a promising approach to overcome challenges associated with underwater visibility. The proposed methodology, coupled with deep learning techniques, aims to produce high-quality enhancements suitable for various underwater applications.
