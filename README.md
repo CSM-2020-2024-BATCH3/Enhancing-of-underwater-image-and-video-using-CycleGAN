@@ -1,4 +1,4 @@
-# Underwater Image and Video Enhancement using CycleGAN
+# Enhancing of Underwater Image and Video using CycleGAN
 
 ## Introduction
 The task focuses on improving the quality of recorded images and videos taken underwater through the application of deep learning, specifically CycleGAN. Underwater environments pose challenges such as light reduction, color distortion, and loss of visibility, which degrade the quality of media captured underwater. CycleGAN, known for its effectiveness in image-to-image translations, is expected to enhance underwater media by learning the mapping between original underwater images/videos and their enhanced versions.
